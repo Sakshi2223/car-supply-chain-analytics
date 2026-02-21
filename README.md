@@ -126,7 +126,6 @@ analysis with real business decision-making. By combining Python-based data anal
 with Power BI dashboards, the project delivers actionable insights across sales,
 logistics, and customer management.
 
-
 AUTHOR
 Sakshi Augad
 Data Analyst | Python | SQL | Power BI
